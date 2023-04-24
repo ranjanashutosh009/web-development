@@ -1,0 +1,12 @@
+body{
+    color: magenta;
+}
+h1{
+    color: black;
+}
+ button,input{
+    color: rgb(189, 37, 37);
+}
+button{
+    color: inherit;
+}

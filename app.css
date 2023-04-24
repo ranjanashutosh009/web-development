@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: red;
+    font-weight: normal;
+    background-color: rgb(127, 255, 127);
+    text-decoration: black underline wavy;
+    letter-spacing: 5px;
+    line-height: 2;
+    font-size: 60px;
+    font-family:fantasy;
+}
+a{
+    text-decoration: none; 
+    color: red;
+    background-color: black;
+ 
+}
+p{
+    line-height: 2;
+    background-color: pink;
+    font-family: fantasy;
+h2{
+    background-color: lightgoldenrodyellow;
+}
+h3{
+    background-color: lightblue;
+}
